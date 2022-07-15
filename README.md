@@ -1,7 +1,7 @@
 # TODO Application 
-Creators:       Marc Schoch & Patrick Grünenfelder
-Created:        October 2021
-Technologies:   React.js, Node.js
+- Creators: Marc Schoch & Patrick Grünenfelder
+- Created: October 2021
+- Technologies: React.js, Node.js
 
 # Run Backend
 1. `cd backend`
