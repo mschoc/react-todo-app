@@ -3,12 +3,21 @@
 - Created: October 2021
 - Technologies: React.js, Node.js
 
-# Run Backend
+## Features
+- Create new TODO items with title, description, deadline and priority
+- Sort TODO items by deadline (finish date), priority (importance) and created date
+- Filter TODO items by finished items (item can be marked as finished)
+- Switch theme between dark and light modes
+
+## Run Backend
 1. `cd backend`
 2. `npm install`
 3. `npm start`
 
-# Run Frontend
+## Run Frontend
 1. `cd frontend`
 2. `npm install`
 3. `npm start`
+
+## Screenshot
+![Alt text](/screenshot/screenshot-main-page.png?raw=true "User Interface TODO App")
