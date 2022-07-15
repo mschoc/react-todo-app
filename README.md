@@ -8,6 +8,7 @@
 - Sort TODO items by deadline (finish date), priority (importance) and created date
 - Filter TODO items by finished items (item can be marked as finished)
 - Switch theme between dark and light modes
+- Mobile responsive
 
 ## Run Backend
 1. `cd backend`
