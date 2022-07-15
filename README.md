@@ -20,4 +20,4 @@
 3. `npm start`
 
 ## Screenshot
-![Alt text](/screenshot/screenshot-main-page.png?raw=true "User Interface TODO App")
+![User Interface TODO App](/screenshot/screenshot-main-page.PNG?raw=true "User Interface TODO App")
