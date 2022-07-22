@@ -1,7 +1,8 @@
-# TODO Application 
+# React TODO Application 
 - Creators: Marc Schoch & Patrick Grünenfelder
 - Created: October 2021
-- Technologies: React.js, Node.js
+- Technologies: React.js, Node.js, JavaScript/JSX, HTML/CSS
+- Completely new codebase to our previous project `https://github.com/mschoc/express-todo-app`
 
 ## Features
 - Create new TODO items with title, description, deadline and priority
